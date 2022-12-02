@@ -1,3 +1,3 @@
-# masai_project_01
+# git_practice_assignmnet1
 
-This project is for practicing the basic functionalities of git and git hub.
+This project is on Prime number Problem and Palindrome problem .
